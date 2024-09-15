@@ -1,4 +1,4 @@
 id,name,city,price,capacity,available
 134,Tourist Sunny Apartment,25,Anchorage,4,yes
-188,Snow Palace,58,New Delhi,5,no
-655,City Break Inn,90,Porto-Novo,3,no
+188,Snow Palace,58,New Delhi,5,yes
+655,City Break Inn,90,Porto-Novo,3,yes
